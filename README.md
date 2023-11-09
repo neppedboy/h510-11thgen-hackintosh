@@ -1,4 +1,4 @@
-# Hackintosh: Gigabyte H510, Intel 11th-gen proccessor, Radeon RX 5600 XT, 16 GB RAM
+### Hackintosh, codename "Ikari": Gigabyte H510, Intel 11th-gen proccessor, Radeon RX 5600 XT, 16 GB RAM
 
 ![About Me section on functional macOS](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20About%20Mac.png)
 
