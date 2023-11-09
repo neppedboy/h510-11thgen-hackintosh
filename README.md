@@ -12,9 +12,9 @@ This is my personal EFI for my home PC. You can use it for your PC if your hardw
 * SSD (NVMe): Kingston NV1 512Gb
 
 ## Misc
-* Audio Card: Realtek ALC897\n
-* Bluetooth module: ASUS BT400 (Bluetooth 4)\n
-* Bootloader: OpenCore (v0.9.5)\n
+* Audio Card: Realtek ALC897
+* Bluetooth module: ASUS BT400 (Bluetooth 4)
+* Bootloader: OpenCore (v0.9.5)
 
 ## What is supported
 * GPU Acceleration with Metal apps
