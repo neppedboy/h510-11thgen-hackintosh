@@ -1,8 +1,16 @@
 ### Hackintosh, codename "Ikari": Gigabyte H510, Intel 11th-gen proccessor, Radeon RX 5600 XT, 16 GB RAM
 
-![About Me section on functional macOS](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20About%20Mac.png)
+## [Reddit post](https://www.reddit.com/r/hackintosh/comments/17rpjy0/macos_11_big_sur_11th_gen_intel_rx_5600xt/) | [Source](https://github.com/neppedboy/h510-11thgen-hackintosh/tree/main/source/EFI) | [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-This is my personal EFI for my home PC. You can use it for your PC if your hardware is simillar on this 
+![About Me s2ection on functional macOS](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20About%20Mac.png)
+
+This is my personal EFI for my home PC. You can use it for your PC if your hardware is [simillar](https://github.com/neppedboy/h510-11thgen-hackintosh#computer-specs)
+
+# DONT USE THIS AS IT IS
+It WONT work normally. You should make some changes before using this EFI configuration
+* Configure SMBIOS
+* Enable Verbose and debug things on boot-args
+* Luck :P
 
 ## Computer specs
 * Motherboard: Gigabyte H510s2
