@@ -16,7 +16,7 @@ It WONT work normally. You should make some changes before using this EFI config
 * Motherboard: Gigabyte H510s2
 * CPU: Intel Core i5-11400F (12 threads, 6 core)
 * RAM: AMD Radeon R9 Gamer Series (R948G3206U2SU) 8Gb x 2
-* GPU: Amd Radeon RX 5600XT (MSI OC Mech edition)
+* GPU: AMD Radeon RX 5600 XT (MSI OC Mech edition)
 * SSD (NVMe): Kingston NV1 512Gb
 
 ## Misc
